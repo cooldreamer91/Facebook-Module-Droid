@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FBModule</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">661912597194042</string>
+    <string name="button_login_with_facebook">Login With Facebook</string>
+	<string name="button_friends_list">Friends List</string>
+	
+    <string name="progressdlg_fetching_user_info">Fetching User Info..</string>
+</resources>
